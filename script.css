@@ -41,7 +41,7 @@ body {
     margin: 0;
     padding: 0;
     background: #fff;
-    overflow: hidden; }
+    }
   
   .pyro > .before, .pyro > .after {
     position: absolute;
