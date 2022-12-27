@@ -42,7 +42,10 @@ body {
     padding: 0;
     background: #fff;
     }
-  
+  .test {
+    bottom: 50%;
+    left: 50%;
+  }
   .pyro > .before, .pyro > .after {
     position: absolute;
     width: 8px;
